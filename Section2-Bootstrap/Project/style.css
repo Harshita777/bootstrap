@@ -1,0 +1,22 @@
+body{
+    background: url(test.avif) no-repeat center center fixed;
+    background-size: cover;
+    
+    height: 100%;
+    overflow: hidden;
+    background-color: hsl(241, 22%, 59%);
+    background-blend-mode: multiply;
+}
+.hero{
+    color: white;
+    margin-top: 20%;
+    text-align: center;
+    font-size: 75px;
+    letter-spacing: -.05em;
+    line-height: 1.2em;
+    font-family: 'Revalia';
+}
+.img{
+    height: 200px;
+    width: 200px;
+}

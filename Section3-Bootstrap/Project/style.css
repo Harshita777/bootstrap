@@ -1,0 +1,33 @@
+body{
+    background: url(1.jpg) no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+    overflow: hidden;
+    background-color: hsl(241, 22%, 59%);
+    background-blend-mode: multiply;
+    font-family: Inconsolata;
+    
+}
+.rowheight{
+    height: 500px;
+}
+h1{
+    font-size: 45px;
+    color: rgb(199, 29, 29);
+}
+.bg{
+    background-color: #000;
+    opacity: 50%;
+}
+.img{
+    height: 200px;
+    width: 300px;
+}
+.footer{
+    background-color: #fff;
+    bottom: 0;
+    position: fixed;
+}
+p{
+    font-size: 30px;
+}
